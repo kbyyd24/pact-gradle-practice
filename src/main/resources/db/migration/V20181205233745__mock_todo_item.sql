@@ -1,2 +1,2 @@
 insert into `todo`
-values ('1', 'mock todo item');
+values ('dd0552ff-152f-4e51-bbdb-facf7c21a368', 'mock todo item');
